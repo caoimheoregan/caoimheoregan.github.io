@@ -11,7 +11,7 @@ html,body {
   font-weight: bold;
 }
 .hero-body
-{background-image: url(https://media.gq.com/photos/57672ef65db2e8cb18c9e9a8/64:25/w_2943,h_1149,c_limit/homer-simpson-driving.jpg);
+{background-image: url(https://64.media.tumblr.com/8e0f9a1a85a17d63b3d17087fd39e25c/17ad213998812fca-a8/s1280x1920/ca282926b96a733af9422e92fbbdb29f0c919744.jpg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -27,7 +27,7 @@ max-height: 100%;
   margin-top: -200px;
 }
 .articles .content p {
-    line-height: 1.9;
+    line-height: 1.9
     margin: 15px 0;
 }
 .author-image {
